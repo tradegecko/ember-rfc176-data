@@ -2523,7 +2523,7 @@
   {
     "global": "DS.hasMany",
     "module": "ember-data",
-    "export": "belongsTo",
+    "export": "hasMany",
     "deprecated": false
   }
 ]
