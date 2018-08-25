@@ -821,19 +821,19 @@
   {
     "global": "Ember.run.later",
     "module": "@ember/runloop",
-    "export": "later",
+    "export": "runLater",
     "deprecated": false
   },
   {
     "global": "Ember.run.next",
     "module": "@ember/runloop",
-    "export": "next",
+    "export": "runNext",
     "deprecated": false
   },
   {
     "global": "Ember.run.once",
     "module": "@ember/runloop",
-    "export": "once",
+    "export": "runOnce",
     "deprecated": false
   },
   {
@@ -2506,6 +2506,18 @@
     "global": "Ember.computed.multiply",
     "module": "App/utils/computed-ext",
     "export": "multiply",
+    "deprecated": false
+  },
+  {
+    "global": "Ember.computed.prefix",
+    "module": "App/utils/computed-ext",
+    "export": "prefix",
+    "deprecated": false
+  },
+  {
+    "global": "Ember.computed.findBy",
+    "module": "App/utils/computed-ext",
+    "export": "findBy",
     "deprecated": false
   },
   {
