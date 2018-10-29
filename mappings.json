@@ -2497,30 +2497,6 @@
     "deprecated": false
   },
   {
-    "global": "Ember.computed.divide",
-    "module": "App/utils/computed-ext",
-    "export": "divide",
-    "deprecated": false
-  },
-  {
-    "global": "Ember.computed.multiply",
-    "module": "App/utils/computed-ext",
-    "export": "multiply",
-    "deprecated": false
-  },
-  {
-    "global": "Ember.computed.prefix",
-    "module": "App/utils/computed-ext",
-    "export": "prefix",
-    "deprecated": false
-  },
-  {
-    "global": "Ember.computed.findBy",
-    "module": "App/utils/computed-ext",
-    "export": "findBy",
-    "deprecated": false
-  },
-  {
     "global": "DS.attr",
     "module": "ember-data",
     "export": "attr",
@@ -2561,6 +2537,156 @@
     "module": "ember-validations",
     "export": "default",
     "localName": "Validations",
+    "deprecated": false
+  },
+  {
+    "global": "Ember.computed.add",
+    "module": "App/utils/computed-ext",
+    "export": "add",
+    "deprecated": false
+  },
+  {
+    "global": "Ember.computed.append",
+    "module": "App/utils/computed-ext",
+    "export": "append",
+    "deprecated": false
+  },
+  {
+    "global": "Ember.computed.boundEqual",
+    "module": "App/utils/computed-ext",
+    "export": "boundEqual",
+    "deprecated": false
+  },
+  {
+    "global": "Ember.computed.convert",
+    "module": "App/utils/computed-ext",
+    "export": "convert",
+    "deprecated": false
+  },
+  {
+    "global": "Ember.computed.defaultTo",
+    "module": "App/utils/computed-ext",
+    "export": "defaultTo",
+    "deprecated": false
+  },
+  {
+    "global": "Ember.computed.divide",
+    "module": "App/utils/computed-ext",
+    "export": "divide",
+    "deprecated": false
+  },
+  {
+    "global": "Ember.computed.findBy",
+    "module": "App/utils/computed-ext",
+    "export": "findBy",
+    "deprecated": false
+  },
+  {
+    "global": "Ember.computed.groupBy",
+    "module": "App/utils/computed-ext",
+    "export": "groupBy",
+    "deprecated": false
+  },
+  {
+    "global": "Ember.computed.humanize",
+    "module": "App/utils/computed-ext",
+    "export": "humanize",
+    "deprecated": false
+  },
+  {
+    "global": "Ember.computed.includes",
+    "module": "App/utils/computed-ext",
+    "export": "includes",
+    "deprecated": false
+  },
+  {
+    "global": "Ember.computed.isEvery",
+    "module": "App/utils/computed-ext",
+    "export": "isEvery",
+    "deprecated": false
+  },
+  {
+    "global": "Ember.computed.isNone",
+    "module": "App/utils/computed-ext",
+    "export": "isNone",
+    "deprecated": false
+  },
+  {
+    "global": "Ember.computed.isThis",
+    "module": "App/utils/computed-ext",
+    "export": "isThis",
+    "deprecated": false
+  },
+  {
+    "global": "Ember.computed.lookup",
+    "module": "App/utils/computed-ext",
+    "export": "lookup",
+    "deprecated": false
+  },
+  {
+    "global": "Ember.computed.multiply",
+    "module": "App/utils/computed-ext",
+    "export": "multiply",
+    "deprecated": false
+  },
+  {
+    "global": "Ember.computed.multiplyRounded",
+    "module": "App/utils/computed-ext",
+    "export": "multiplyRounded",
+    "deprecated": false
+  },
+  {
+    "global": "Ember.computed.nearestOfType",
+    "module": "App/utils/computed-ext",
+    "export": "nearestOfType",
+    "deprecated": false
+  },
+  {
+    "global": "Ember.computed.parseNumber",
+    "module": "App/utils/computed-ext",
+    "export": "parseNumber",
+    "deprecated": false
+  },
+  {
+    "global": "Ember.computed.prefix",
+    "module": "App/utils/computed-ext",
+    "export": "prefix",
+    "deprecated": false
+  },
+  {
+    "global": "Ember.computed.rejectBy",
+    "module": "App/utils/computed-ext",
+    "export": "rejectBy",
+    "deprecated": false
+  },
+  {
+    "global": "Ember.computed.subtract",
+    "module": "App/utils/computed-ext",
+    "export": "subtract",
+    "deprecated": false
+  },
+  {
+    "global": "Ember.computed.suffix",
+    "module": "App/utils/computed-ext",
+    "export": "suffix",
+    "deprecated": false
+  },
+  {
+    "global": "Ember.computed.sumBy",
+    "module": "App/utils/computed-ext",
+    "export": "sumBy",
+    "deprecated": false
+  },
+  {
+    "global": "Ember.computed.uniqSumBy",
+    "module": "App/utils/computed-ext",
+    "export": "uniqSumBy",
+    "deprecated": false
+  },
+  {
+    "global": "Ember.computed.slice",
+    "module": "App/utils/computed-ext",
+    "export": "slice",
     "deprecated": false
   }
 ]
