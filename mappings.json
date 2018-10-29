@@ -2557,23 +2557,10 @@
     "deprecated": false
   },
   {
-    "global": "Ember.Component",
-    "module": "ember",
-    "export": "Component",
-    "deprecated": true,
-    "replacement": {
-      "module": "@ember/component",
-      "export": "default"
-    }
-  },
-  {
-    "global": "Ember.on",
-    "module": "ember",
-    "export": "on",
-    "deprecated": true,
-    "replacement": {
-      "module": "@ember/object/evented",
-      "export": "on"
-    }
+    "global": "Ember.Validations",
+    "module": "ember-validations",
+    "export": "default",
+    "localName": "Validations",
+    "deprecated": false,
   }
 ]
