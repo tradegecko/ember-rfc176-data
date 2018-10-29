@@ -2561,6 +2561,6 @@
     "module": "ember-validations",
     "export": "default",
     "localName": "Validations",
-    "deprecated": false,
+    "deprecated": false
   }
 ]
