@@ -2537,5 +2537,23 @@
     "module": "ember-data",
     "export": "hasMany",
     "deprecated": false
+  },
+  {
+    "global": "Ember.View",
+    "module": "deprecated-ember",
+    "export": "View",
+    "deprecated": false
+  },
+  {
+    "global": "Ember.ArrayController",
+    "module": "deprecated-ember",
+    "export": "ArrayController",
+    "deprecated": false
+  },
+  {
+    "global": "Ember.ObjectController",
+    "module": "deprecated-ember",
+    "export": "ObjectController",
+    "deprecated": false
   }
 ]
